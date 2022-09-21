@@ -1,6 +1,6 @@
 {
   "name": "azure-template",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "<h1 align=\"center\">AzureTemplate</h1>\r <br>\r <img src=\"https://github.com/Casvaru/Resourses/blob/main/screenshots/Template-Html-Css-and-JS-Vanilla-Component/AzureTemplate.png?raw=true\" alt=\"Template\">",
   "main": "index.js",
   "scripts": {

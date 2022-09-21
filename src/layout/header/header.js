@@ -6,6 +6,7 @@ class mainHeader extends HTMLElement{
     connectedCallback(){
         this.innerHTML =`
         <header class="header">
+            
         </header>
         `
     }

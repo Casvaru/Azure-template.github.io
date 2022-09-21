@@ -16,13 +16,13 @@ class mainIndex extends HTMLElement{
             
         <img decoding="async" loading="lazy" class="welcome__logo" style="width: 9.375rem;
             height: 9.375rem; margin-left: 10.9375rem; background: white; border-radius:50%;
-            box-shadow: 0 10px 20px rgba(0,0,0, .3);" src="global/logo.png" alt="Logo Asvar">
+            box-shadow: 0 5px 10px 0px rgba(0,0,0, .3);" src="global/logo.png" alt="Logo Asvar">
             
             <div class="welcome__wrap">
                 <h4 style="position: relative; text-align: center; font-size: 1.5em; padding: 1.25rem;">Welcome to AzureTemplate</h4>
                 <p class="welcome__text" style="text-align: center; padding: 0.625rem; font-size: 1rem;">more info in "README.md", to edit go to <a href="#">public/index.js</a></p>
                 <h6 class="welcome__github" style="text-align: center;">Repository <a target="_blank" href="https://github.com/Casvaru/Azure-Template.git">GitHub</a></h6>
-                <h6 style="text-align: center; color: darkgray;">v 1.0.2</h6>
+                <h6 style="text-align: center; color: darkgray;">v 1.0.3</h6>
             </div>
         </div>
         `

@@ -21,8 +21,8 @@ class mainIndex extends HTMLElement{
             <div class="welcome__wrap">
                 <h4 style="position: relative; text-align: center; font-size: 1.5em; padding: 1.25rem;">Welcome to AzureTemplate</h4>
                 <p class="welcome__text" style="text-align: center; padding: 0.625rem; font-size: 1rem;">more info in "README.md", to edit go to <a href="#">public/index.js</a></p>
-                <h6 class="welcome__github" style="text-align: center;">Repository <a target="_blank" href="https://github.com/Casvaru/AzureTemplate.git">GitHub</a></h6>
-                <h6 style="text-align: center; color: darkgray;">v 1.0.1</h6>
+                <h6 class="welcome__github" style="text-align: center;">Repository <a target="_blank" href="https://github.com/Casvaru/Azure-Template.git">GitHub</a></h6>
+                <h6 style="text-align: center; color: darkgray;">v 1.0.2</h6>
             </div>
         </div>
         `

@@ -1,0 +1,20 @@
+{
+  "name": "azure-template",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">AzureTemplate</h1>\r <br>\r <img src=\"https://github.com/Casvaru/Resourses/blob/main/screenshots/Template-Html-Css-and-JS-Vanilla-Component/AzureTemplate.png?raw=true\" alt=\"Template\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casvaru/Azure-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Casvaru/Azure-template/issues"
+  },
+  "homepage": "https://github.com/Casvaru/Azure-template#readme"
+}
